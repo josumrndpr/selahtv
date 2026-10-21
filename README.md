@@ -43,9 +43,17 @@ un solo servidor Python con la biblioteca estándar.
 
 ## Capturas
 
-| Inicio (panel del técnico) | Visor limpio (congregación) | Mando móvil |
-|---|---|---|
-| ![Inicio](images/inicio.png) | ![Visor](images/visor-limpio.png) | ![Mando](images/mando.png) |
+### Inicio (panel del técnico)
+
+![Inicio](images/inicio.png)
+
+### Visor limpio (congregación)
+
+![Visor](images/visor-limpio.png)
+
+### Mando móvil
+
+![Mando](images/mando.png)
 
 ## Instalación (Windows)
 
