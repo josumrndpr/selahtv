@@ -1,5 +1,5 @@
 {
- "version": "1.9",
- "url": "https://github.com/josumrndpr/selahtv/releases/download/v1.9/SelahTV-1.9.zip",
- "notas": "Mando con PIN y biblioteca, instalador con aviso, streaming de video"
+ "version": "1.10",
+ "url": "https://github.com/josumrndpr/selahtv/releases/download/v1.10/SelahTV-1.10.zip",
+ "notas": "Culto real: galería reparada, loop eterno, borrar, respaldo, YouTube, anuncios con imagen, mando nuevo, QR, reloj"
 }
